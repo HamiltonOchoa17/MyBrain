@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "c801930039bf1562",
+    "id": "d490ab2b7b5e9b77",
     "type": "split",
     "children": [
       {
-        "id": "7fd4621b2dd7a3e2",
+        "id": "f3c9f7d5bde6cdb4",
         "type": "tabs",
         "children": [
           {
-            "id": "3ca689a002a2341e",
+            "id": "69a631dd2567e5bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Python/PYTHON.md",
+                "file": "2025-01-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PYTHON"
+              "title": "2025-01-27"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ef3c67428ddf71fe",
+    "id": "6a955963807b5aa1",
     "type": "split",
     "children": [
       {
-        "id": "b247344646dcf495",
+        "id": "9e62eb8ec11763e7",
         "type": "tabs",
         "children": [
           {
-            "id": "365869cac4f895af",
+            "id": "27d8f2584dccc5b4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,11 +43,11 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "Explorador de archivos"
+              "title": "Files"
             }
           },
           {
-            "id": "36c667d80dca5903",
+            "id": "b76657a17640986a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -60,17 +60,17 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
-            "id": "4e7323f6b2f42b3c",
+            "id": "19a537ac4f614bc9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Marcadores"
+              "title": "Bookmarks"
             }
           }
         ]
@@ -80,20 +80,19 @@
     "width": 300
   },
   "right": {
-    "id": "0c4533d1ce7f66e5",
+    "id": "7d40665fd6b18889",
     "type": "split",
     "children": [
       {
-        "id": "a06a41c85aa75460",
+        "id": "c5fe0e16a607a900",
         "type": "tabs",
         "children": [
           {
-            "id": "ce83356c1cce8e7e",
+            "id": "dc8233372da420b4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Expreciones regulares.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,25 +102,24 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Expreciones regulares"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "d6b05db84bce8693",
+            "id": "664e7b1e41792229",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Expreciones regulares.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Expreciones regulares"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "82395e7e04a99ff6",
+            "id": "9c15e9918d0e956c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -130,23 +128,20 @@
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
-              "title": "Etiquetas"
+              "title": "Tags"
             }
           },
           {
-            "id": "970ee342822b9aea",
+            "id": "a6f4191863ae7b30",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Machine Learning/MACHINE LEARNIG.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Esquema de MACHINE LEARNIG"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,29 +150,20 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir selector rápido": false,
-      "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo lienzo": false,
-      "daily-notes:Abrir la nota de hoy": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "3ca689a002a2341e",
+  "active": "69a631dd2567e5bf",
   "lastOpenFiles": [
-    "Python/PYTHON.md",
-    "Python/Entornos virtuales.md",
-    "Tareas/TAREAS AUTOMATIZADAS.md",
-    "Tareas/Expreciones regulares.md",
-    "Python",
-    "Machine Learning/MACHINE LEARNIG.md",
-    "Tareas/Regexes.md",
-    "Captura desde 2025-01-27 19-14-08.png",
-    "Machine Learning",
-    "Tareas",
-    "Sin.md",
-    "Sin título.canvas",
     "2025-01-27.md",
-    "Bienvenido.md"
+    "MyBrain/Untitled",
+    "MyBrain/TAREAS AUTOMATIZADAS.md",
+    "MyBrain/Regexes.md",
+    "MyBrain/Expreciones regulares.md"
   ]
 }
